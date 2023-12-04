@@ -1,0 +1,24 @@
+Come abilitare il Debug USb su smartphone android
+
+Il debug USB é una modalità di collegamento di Android al Pc che consente l'invio e la ricezioni di comandi su porta usb
+
+Di seguito le istruzioni per l' attivazione del Debug USB:
+
+    Aprire il menu delle Impostazioni
+    Cliccare su Applicazioni
+    Cliccare su Sviluppo
+    Attivare l’opzione Debug USB
+
+Cliccando sulla voce Opzioni sviluppatore all' interno del menu di impostazioni:
+
+    Aprire Opzioni sviluppatore ed procedere con l' attivazione
+    Attivare l’opzione Debug USB
+
+Nel caso in cui non si riuscissero a rintracciare le impostazioni di sviluppatore, occorrono pochi passi per individuarle:
+
+    Aprire il menu Impostazioni
+    Selezionare Info sul dispositivo
+    Premere 7 volte su Versione build
+    Tornare alle Impostazioni
+    Cliccate su Opzioni sviluppatore non appena compariranno tra le varie voci del Menù e provvedere all' attivazione
+    Attivare ora l' opzione Debug USB
